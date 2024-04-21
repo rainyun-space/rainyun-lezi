@@ -6,7 +6,7 @@ hero:
   name: "雨云群乐子收集处"
   tagline: 收集一些雨云群里的乐子人
   image:
-    src: images/rainyun.png
+    src: https://video.ick.moe/rainyun.png
     alt: rainyun-logo
   actions:
     - theme: brand

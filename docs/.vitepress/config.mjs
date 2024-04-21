@@ -5,7 +5,7 @@ export default defineConfig({
   lang: "zh-CN",
   title: "雨云群乐子收集处",
   description: "收集一些雨云群里面的乐子",
-  head: [['link', { rel: 'icon', href: '/rainyun-logo.png' }]],
+  head: [['link', { rel: 'icon', href: 'images/rainyun-logo.png' }]],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [

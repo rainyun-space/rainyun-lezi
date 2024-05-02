@@ -7,7 +7,6 @@ export default defineConfig({
   description: "收集一些雨云群里面的乐子",
   head: [['link', { rel: 'icon', href: 'https://video.ick.moe/rainyun-logo.png' }]],
   themeConfig: {
-    // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '🏠主页', link: '/' },
       { text: '😄看乐子', link: '/lezi' }

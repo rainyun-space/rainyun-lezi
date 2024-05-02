@@ -19,7 +19,8 @@ export default defineConfig({
         link: '/lezi',
         items: [
           { text: 'CF没有CNAME哥', link: '/lezi/cf-without-cname' },
-          { text: '半夜破防哥', link: '/lezi/i-lost-my-eye' }
+          { text: '半夜破防哥', link: '/lezi/i-lost-my-eye' },
+          {text: 'PVP大蛇', link: '/lezi/pvp-da-she' },
         ]
       },
       {
